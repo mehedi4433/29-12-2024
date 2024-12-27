@@ -1,0 +1,93 @@
+@media (max-width:573px){
+
+    .hero-blog-01{
+        height: 68vh;
+    }
+    .hero-heading{
+        font-size: 2rem;
+        line-height: 2.875rem;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-top: 1rem;
+        cursor: pointer;
+        transition: 0.2s;
+    }
+
+    .small-card01{
+        padding: 0 0 1.9rem 0 !important;
+        background-color: transparent !important;
+        border: none !important;
+        border-bottom: 1px solid rgb(90, 90, 90) !important;
+        margin: 2rem 0 !important;
+    }
+
+    .hero-section{
+        border-bottom: none;
+    }
+
+    .button-grp{
+        width: 100%;
+        padding: 50px 40px;
+        text-align: center;
+    }
+
+    .blog-01-img{
+        padding-bottom: 2rem;
+    }
+    .blog-01-img{
+        height: 100% !important;
+    }
+
+    .p09{
+        margin-left: 10rem;
+    }
+
+    .p10{
+        margin-left: 11.2rem;
+    }
+
+    .subscribe-btn{
+        display: block;
+        text-align: center;
+        margin: 1.5rem 0;
+    }
+
+    .footer{
+        padding-left: 1rem;
+    }
+
+    .footer-p01{
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width:1199px){
+    .hero-blog-01{
+        height: 74vh;
+    }
+    .small-card01{
+        padding: 0 0 0.6rem 0 !important;
+    }
+
+    .p01{
+        font-size: 0.875rem;
+    }
+
+    .p02{
+        font-size: 1rem;
+    }
+
+    .button-grp{
+        padding: 60px 20px;
+    }
+    
+    .blog-01-img{
+        height: 80%;
+    }
+    .p04{
+        font-size: 1.2rem;
+        margin: 4px 0 !important;
+    }
+
+    
+}
